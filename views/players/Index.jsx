@@ -4,7 +4,7 @@ function Index(props) {
 
     return(
         <div>
-            <h1>The Lakers Player</h1> 
+            <h1>The Los Angeles Lakers Players</h1> 
              <ul>
                 {props.players.map((player, index) => // map through players model
                 <li>

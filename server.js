@@ -9,7 +9,7 @@ const PORT = 7076
 //Load data from model?
 
 // Load Routes from Router Folder 
-const playerRoutes = require('./routes/player.Routes')
+const playerRoutes = require('./routes/playerRoutes')
 const familyRoutes = require('./routes/familyRoutes')
 
 // Load the create-engine 

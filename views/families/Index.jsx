@@ -1,11 +1,11 @@
 import React from 'react'
-// import { index } from '../../controllers/fruitController';
 
 function Index(props) {
     return (
         <div>
             <h1>The Royal Family</h1>
             <ul>
+                {console.log(props.families)}
                 {props.families.map((family, index) => 
                     <li>
                         <a href={`/families/${index}`}><strong>{family.name}</strong></a>

@@ -1,4 +1,6 @@
 const families = [
+
+
     {
     name: 'Franklin King',
     nickie: 'King',
@@ -36,3 +38,5 @@ const families = [
 
 
 ]; 
+
+module.exports = families

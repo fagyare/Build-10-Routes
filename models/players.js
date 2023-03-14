@@ -40,6 +40,16 @@ const players = [
     num: 28
 },
 
+{
+    name: 'Dennis Schroder',
+    nickie: 'Schruuuu',
+    bio: 'Dennis Schröder averaged 14.7 points , 3.8 assists, 2.3 points off turnovers & 2.1 fast break points. The only Thunder reserve to hold a higher scoring average was James Harden in 2011-12 with 16.9 points per contest. On 4/10 at Milwaukee, went a careerbest 8/15 from the three-point line to post a game-leading and season-high-tying 32 points, five rebounds, three assists and game-best four steals, going a perfect 4/4 from the charity stripe.',
+    position: 'Point Guard',
+    season: 9,
+    allStar: false,
+    num: 17
+},
+
 
 ];
 
