@@ -7,7 +7,7 @@ function Show(props) {
         <div style={{backgroundColor: 'purple', color: 'lightgray'}}>
 
         <h1 style={{backgroundColor: 'gold' , color: 'black' }}>L.A. Lakers Player</h1>
-        <img src='/lbj.png' alt='lbjames'/>
+        {/* <img src='/lbj.png' alt='lbjames'/> */}
       
         <h3> <strong>{props.player.name}</strong> </h3>
         <p> {props.player.nickie} </p>
