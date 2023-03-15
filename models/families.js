@@ -1,38 +1,36 @@
 const families = [
-
-
     {
     name: 'Franklin King',
     nickie: 'King',
-    age: 99,
+    age: 30,
     hobby: true,
 },
 
 {
     name: 'Amber Danner',
     nickie: 'Queen',
-    age: 98,
+    age: 27,
     hobby:false ,
 },
 
 {
     name: 'Kingsley King',
     nickie: 'Sabali',
-    age: 97,
+    age: 31,
     hobby: false,
 },
 
 {
     name: 'Edward Bonsu',
     nickie: 'Shatta',
-    age: 96,
+    age: 32,
     hobby: true,
 },
 
 {
     name: 'Benjamin Boat',
     nickie: 'Benly',
-    age: 95,
+    age: 29,
     hobby: false,
 },
 

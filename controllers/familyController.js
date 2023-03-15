@@ -12,5 +12,7 @@ function show(req, res){
     res.render('families/Show', {family: families[req.params.index]})
 }
 
+
+
 module.exports = {index, show} 
 
